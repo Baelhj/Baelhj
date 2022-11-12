@@ -1,10 +1,12 @@
-### Hi there 👋, Baelhadj Babaali
-#### Front-end Web Development
 ![Front-end Web Development](https://github.com/Baelhj/Baelhj/blob/main/pexels-john-petalcurin-2115257.jpg)
+#Baelhadj Babaali
 
 I'm Belhadj from Algeria, problem solving my hobby and building web apps is what I'm becoming to. I finished responsive web design  at freeCodeCamp's curriculum.
 
-Skills: HTML / CSS / Python
+## Skills and Experience
+
+💻 HTML / CSS 
+🐍️ Python
 
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: syamo.imoo@gmail.com 
